@@ -818,7 +818,7 @@ def load_test():
             file_name="trade_flows_Z.txt", row_header=2, col_header=3, unit_col=2
         ),
         Y=file_data(
-            file_name="finald_demand_Y.txt", row_header=2, col_header=3, unit_col=2
+            file_name="final_demand_Y.txt", row_header=2, col_header=3, unit_col=2
         ),
         fac=file_data(
             file_name="factor_input.txt", row_header=2, col_header=2, unit_col=1
